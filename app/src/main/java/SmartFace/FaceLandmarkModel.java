@@ -6,6 +6,8 @@ package SmartFace;
 
 public class FaceLandmarkModel {
     public int[] model;
+
+    q
     public int size;
     public FaceLandmarkModel(){
 
