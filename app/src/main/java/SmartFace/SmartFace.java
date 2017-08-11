@@ -22,7 +22,7 @@ public class SmartFace {
     //objects to generate members
     FaceRecognizor faceRecognizor;
     FaceDetector faceDetector;
-    FaceDescriptor faceDescriptor;
+    public FaceDescriptorModel FaceDescriptor(){};
 
 
     //initializer
@@ -34,7 +34,7 @@ public class SmartFace {
 
 
 
-    {}
+
 
 
 
