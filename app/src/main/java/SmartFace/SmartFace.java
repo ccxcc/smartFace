@@ -9,7 +9,6 @@ public class SmartFace {
     //members
 
     //9
-
     HeadPose headPose;
     Face face
     FaceLandmark faceLandmark
