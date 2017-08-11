@@ -20,8 +20,8 @@ public class SmartFace {
 
 
     //objects to generate members
-    FaceRecognizor faceRecognizor;
-    FaceDetector faceDetector;
+    public FaceRecognizor();
+    public FaceDetector faceDetector;
     public FaceDescriptorModel FaceDescriptor(){};
 
 
