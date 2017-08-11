@@ -5,13 +5,4 @@ package SmartFace;
  */
 
 public class FaceLandmark {
-    ImageSize mImageSize;
-    FaceLocation mFaceLocation;
-    FaceLandmarkModel mFaceLandmarkModel;
-
-    public FaceLandmark(ImageSize mImageSize, FaceLocation mFaceLocation, FaceLandmarkModel mFaceLandmarkModel) {
-        this.mImageSize = mImageSize;
-        this.mFaceLocation = mFaceLocation;
-        this.mFaceLandmarkModel = mFaceLandmarkModel;
-    }
 }
