@@ -11,26 +11,19 @@ public class SmartFace {
     //9
 
     HeadPose headPose;
-
     Face face
     FaceLandmark faceLandmark
     FaceImage faceImage;
 
+
+    //objects to generate members
+    FaceRecognizor faceRecognizor;
+    FaceDetector faceDetector;
+    FaceDescriptor faceDescriptor;
     //initializer
     public smartFace(TypeImage inputimg){
     }
 
-
-    //functions
-    public void FaceDetector() {
-
-    }
-    public void FaceRecognizor() {
-
-    }
-    public void FaceDescriptor() {
-
-    }
 
 
 
