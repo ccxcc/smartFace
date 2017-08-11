@@ -9,8 +9,7 @@ import android.media.Image;
 public class Face {
     ImageSize imageSize;
     FaceLocation faceLocation;
-
-
+    FaceImage faceImage;
     Image inputImage;
     public Face(ImageSize _imageSize, FaceLocation _faceLocation) {
         imageSize = _imageSize;
