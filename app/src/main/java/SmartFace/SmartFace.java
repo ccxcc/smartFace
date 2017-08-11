@@ -17,7 +17,7 @@ public class SmartFace {
     FaceImage faceImage;
 
     //initializer
-    public smartFace(Image inputimg){
+    public smartFace(TypeImage inputimg){
     }
 
 
