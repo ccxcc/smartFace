@@ -5,4 +5,11 @@ package SmartFace;
  */
 
 public class FaceDetector {
+
+    FaceDescriptorModel faceDescriptorModel;
+
+    public FaceDetector() {
+
+    }
+
 }

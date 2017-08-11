@@ -1,7 +1,6 @@
 package SmartFace;
 
 import java.util.ArrayList;
-
 /**
  * Created by goose on 8/10/17.
  */
