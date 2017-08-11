@@ -7,11 +7,12 @@ package SmartFace;
 public class SmartFace {
 
     //members
-
+    TypeImage image;
     //9
+
     HeadPose headPose;
-    Face face
-    FaceLandmark faceLandmark
+    Face face;
+    FaceLandmark faceLandmark;
     FaceImage faceImage;
 
 
@@ -19,10 +20,17 @@ public class SmartFace {
     FaceRecognizor faceRecognizor;
     FaceDetector faceDetector;
     FaceDescriptor faceDescriptor;
+
+
     //initializer
-    public smartFace(TypeImage inputimg){
+    public SmartFace(TypeImage inputimg){
+        image = inputimg;
+
     }
 
+
+
+    {}
 
 
 
