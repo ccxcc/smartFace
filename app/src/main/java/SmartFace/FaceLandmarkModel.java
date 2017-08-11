@@ -5,4 +5,8 @@ package SmartFace;
  */
 
 public class FaceLandmarkModel {
+    public double[] model;
+    public FaceLandmarkModel(){
+
+    }
 }

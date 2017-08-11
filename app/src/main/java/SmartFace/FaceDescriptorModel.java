@@ -5,4 +5,5 @@ package SmartFace;
  */
 
 public class FaceDescriptorModel {
+
 }

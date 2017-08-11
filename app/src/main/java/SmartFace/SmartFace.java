@@ -11,7 +11,6 @@ public class SmartFace {
 
     //members
     Image image;
-    //9
 
     HeadPose headPose;
     Face face;
